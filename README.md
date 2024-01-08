@@ -2,7 +2,7 @@
 - 🌱 Estudando desenvolvimento web
 ##
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yagosoares7&count_private=true&show_icons=true&theme=github_dark&card_width=500em)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yagosoares7&count_private=true&show_icons=true&theme=github_dark&card_width=490em)
 
 <div style="display: inline_block">
   <img align="center" alt="yago-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
