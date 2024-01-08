@@ -16,5 +16,3 @@
    <a href="https://www.linkedin.com/in/yago-soares-29b8a22a8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    <a href = "mailto:yago.psoares@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
-
-<img src="https://raw.githubusercontent.com/Yagosoares7/Yagosoares7/output/snake.svg" alt="Snake animation" />
