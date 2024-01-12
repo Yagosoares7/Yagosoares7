@@ -8,6 +8,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yagosoares7&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
+<img align="right" height="150" src="https://steamuserimages-a.akamaihd.net/ugc/2009201438118984930/76511BEE253E3AA0B4D21F71BDBFDB9BB251448F/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"  />
+
 ###
 
 <div align="left">
